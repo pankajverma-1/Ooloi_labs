@@ -6,6 +6,6 @@
     line-height: 170%;
 }
 
-img:hover {
+thead img:hover {
     cursor: pointer;
 }
