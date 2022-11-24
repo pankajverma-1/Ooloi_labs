@@ -1,0 +1,11 @@
+.customFont {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 170%;
+}
+
+img:hover {
+    cursor: pointer;
+}
